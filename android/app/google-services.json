@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "335688877116",
+    "project_id": "outpassify-78b92",
+    "storage_bucket": "outpassify-78b92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335688877116:android:f4d2107f5a3fe0775a2f39",
+        "android_client_info": {
+          "package_name": "com.example.outpassify"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB2NvFHunhMOTIKphOm3PQXyngPEeDyvys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

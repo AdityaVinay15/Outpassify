@@ -1,0 +1,42 @@
+class MyAppRouteConstants {
+  static const String authName = 'auth';
+  static const String homeRouteName = 'home';
+  static const String resetpass = 'resetpass';
+  static const String otps = 'otps';
+  static const String newpasscode = 'newpasscode';
+  static const String studentpermissionRouteName = 'studentpermission';
+  static const String studentsettingsName = 'studentsettings';
+  static const String studentinfoName = 'studentinfo';
+  static const String studentreqinfo = 'studentreqinfo';
+  static const String logout = 'logout';
+  static const String adminRouteName = "admin";
+  static const String adminpermissionRouteName = 'adminpermission';
+  static const String adminsettingsRouteName = "adminsettings";
+  static const String admininfoRouteName = 'admininfo';
+  static const String adminaccdecRouteName = 'adminaccdec';
+  static const String adminhelpcenter = 'adminhelpcenter';
+  static const String adminaboutus = 'adminaboutus';
+  static const String adminpremissionsreport = 'adminpremissionsreport';
+  static const String guardRouteName = 'gaurd';
+  static const String guardstatusRouteName = 'guardstatus';
+  static const String guardsettingsRouteName = 'guardsettings';
+  static const String guardinfoRouteName = 'guardinfo';
+  static const String guardinboxRouteName = 'guardinbox';
+  static const String requestaccepted = 'request';
+  static const String guardrollnumber = 'guardrollnumber';
+  static const String guardstudentinfo = 'guardstudentinfo';
+  static const String guardhelpcenter = 'guardhelpcenter';
+  static const String guardaboutus = 'guardaboutus';
+  static const String helpcenter = 'helpcenter';
+  static const String studentaboutus = 'studentaboutus';
+  static const String studentreport = 'studentreport';
+  static const String guarddesktopresetpassword = 'guarddesktopresetpassword';
+  static const String adminmanagestudentsdata = 'adminmanagestudentsdata';
+  static const String adminregisterfingerprints = 'adminregisterfingerprints';
+  static const String adminattendance = 'adminattendance';
+  static const String adminfacescan = 'adminfacescanface';
+  static const String adminregisterface = 'adminregisterface';
+  static const String adminpastattendance = 'adminpastattendance';
+  static const String unauthstudent = 'unauthstudent';
+
+}
