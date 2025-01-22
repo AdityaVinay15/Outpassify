@@ -1,6 +1,6 @@
 # outpassify
 
-A new Flutter project.
+An app developed to manage outpasses in our campus for hostel students outpasses. this app handles outpasses at student ,warden and guards by restricting the usage of paper passes. This app is currently in use in our college with a daily users of around 200.
 
 ## Getting Started
 
